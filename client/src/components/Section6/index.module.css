@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: #3A4E78;
+    width: 100vw;
+    color: white;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.top,.bottom{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+.top >img{
+    width: 130px;
+}
+.instagram{
+    display: flex;
+    gap:10px;
+}
+.icon{
+    width: 30px;
+}
