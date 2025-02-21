@@ -10,6 +10,11 @@
   /* overflow:auto; */
   /* padding-right: 15px; */
   overflow-x: hidden;
+  background-color: white;
+  color: black;
+  }
+  button{
+    color: #000;
   }
 .internal{
   flex-direction: column;
