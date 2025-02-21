@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    align-self: center;
+
+}
+.heading{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.body h2{
+margin: 0px;
+}
+.body mark{
+    color:#ff8095;;
+    background-color: inherit;
+}
+.body img{
+    width: 100%;
+}

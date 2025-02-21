@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    background-image: url("./../../assets/Section3/sky.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+}
+.header h2{
+    font-family: var(--font-primary);
+    font-weight: 500;
+    font-size: 28px;
+}
+.body{
+    width: 600px;
+    position: relative;
+    gap: 0px;
+    display: flex;
+    flex-direction: column;
+}
+.icon1{
+    left: 15%;
+    position:relative;
+    width: 40px;
+}
+.icon2{
+    left: 25%;
+    position: relative;
+    width: 40px;
+}

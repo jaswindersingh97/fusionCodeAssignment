@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    align-items: center;
+    gap: 20px;
+}
+
+.left{
+    background-color: rgba(240, 248, 255, 0.173);
+    min-width: 60px;
+    min-height: 60px;
+    align-content: center;
+    text-align: center;
+    border-radius: 10px;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.right h3,p{
+    margin: 0px;
+}
+.right p{
+    color: rgba(240, 248, 255, 0.619);
+}

@@ -1,0 +1,26 @@
+.container {
+    background-image: url("./../../assets/Section5/girls.png");
+    width: 100vw; 
+    height: 60vh; 
+    background-size:cover;
+    background-position: center;
+    background-repeat: repeat;
+    justify-items: center;
+    align-content: center;
+ }
+ .header{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+    font-family: var(--font-poppins);
+    width: 400px;
+ }
+ .header h2{
+    font-weight: 200;
+ }
+ .button button{
+    
+ }
