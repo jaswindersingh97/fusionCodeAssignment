@@ -9,3 +9,11 @@
     box-sizing: border-box;
     padding: 20px;
 }
+
+.body{
+    display: flex;
+    gap: 60px;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+
+}
