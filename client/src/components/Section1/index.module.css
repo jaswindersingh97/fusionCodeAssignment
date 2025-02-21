@@ -40,3 +40,10 @@
     font-size: 18px;
     font-weight: 400;
 }
+/* 
+@media (max-width: 767px) {  
+    .container{
+    background-image:url("./../../assets/Section1/heroMobile.png");
+
+    }
+    /* Styles for all mobile phones */
