@@ -40,10 +40,20 @@
     font-size: 18px;
     font-weight: 400;
 }
-/* 
-@media (max-width: 767px) {  
+@media screen and (max-width: 480px) {
     .container{
     background-image:url("./../../assets/Section1/heroMobile.png");
-
+    width: 100%;
+    padding-inline: 15px;
+    text-align: none;
     }
+    .heading{
+        width: 100%;
+        text-align: start;
+        align-items: baseline;
+    }
+    .heading h2{
+        font-size: 27px;
+    }
+}
     /* Styles for all mobile phones */

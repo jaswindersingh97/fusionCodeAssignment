@@ -12,6 +12,8 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    font-family: serif;
+    font-weight: 600;
 }
 
 .body h2{
@@ -23,4 +25,15 @@ margin: 0px;
 }
 .body img{
     width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+.container{
+    box-sizing: border-box;
+    padding: 50px;
+    text-align: start;
+}
+.heading{
+    justify-content: space-between;
+}
 }
