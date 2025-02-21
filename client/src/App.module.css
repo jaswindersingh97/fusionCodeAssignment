@@ -19,6 +19,10 @@
     font-weight: 400;
     background-color: #ff97ab;
   }
+  html {
+    scroll-behavior: smooth;
+}
+
 .internal{
   flex-direction: column;
   display: flex;

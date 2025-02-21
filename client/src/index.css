@@ -15,6 +15,9 @@
     --font-lato: "Lato", "serif";
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 a {
   font-weight: 500;
