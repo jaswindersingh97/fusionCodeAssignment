@@ -15,6 +15,9 @@
   }
   button{
     color: #000;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #ff97ab;
   }
 .internal{
   flex-direction: column;
