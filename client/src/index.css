@@ -11,7 +11,11 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  --font-primary: "Fraunces", "serif";
+    --font-poppins: "Poppins", "serif";
+    --font-lato: "Lato", "serif";
 }
+
 
 a {
   font-weight: 500;
@@ -27,7 +31,7 @@ body {
   display: flex;
   place-items: center;
   min-width: 320px;
-  min-height: 100vh;
+  /* min-height: 100vh; */
 }
 
 h1 {

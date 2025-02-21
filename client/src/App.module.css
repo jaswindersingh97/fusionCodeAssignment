@@ -1,4 +1,6 @@
 .container{
   display: flex;
-  background-color: pink;
+  /* background-color: pink; */
+  width: 100vw;
+  height: 100%;
 }

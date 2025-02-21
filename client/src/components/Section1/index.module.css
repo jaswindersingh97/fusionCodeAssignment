@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    background-image:url("./../../assets/Section1/hero.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 655px;
+    padding: 0 20px; 
+    justify-content: center;   
+    align-items: end;
+    padding: 100px;
+    box-sizing: border-box;
+
+}
+.heading{
+    color: white;
+    max-width:500px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.heading h2{
+    font-family: var(--font-poppins);
+    font-size: 38px;
+    font-weight: 100;
+    margin: 0;
+}
+.heading p{
+    font-size: 20px;
+    margin: 0%;
+}
+.heading button{
+    /* font-family: var(--font-poppins); */
+    background-color: rgb(255, 151, 168);
+    /* max-width: 300px; */
+    display: flex;
+    gap:4px;
+    border-radius: 2.68435e+07px;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 400;
+}
