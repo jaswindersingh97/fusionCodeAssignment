@@ -15,6 +15,9 @@ function Section6() {
         </span>
       </div>
       <div className={style.bottom}>
+      <br/>
+      <br/>
+
         <p>Privacy Policy</p>
         <p>Accessibility Statement</p>
         <img src={indeed} alt='indeed'/>

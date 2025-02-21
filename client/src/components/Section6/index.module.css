@@ -5,7 +5,8 @@
     width: 100%;
     color: white;
     align-items: center;
-    padding: 20px;
+    padding: 60px;
+    gap: 20px;
     box-sizing: border-box;
 }
 .top,.bottom{
